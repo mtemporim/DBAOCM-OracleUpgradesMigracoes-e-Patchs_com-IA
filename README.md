@@ -24,6 +24,6 @@ Abra [`HTML/index.html`](HTML/index.html) para navegar pelas atividades com barr
 | [Atividade 6](Atividade6/relatorio-atividade6.md) | Migrar 19c → 23ai (23.26.1) | `06-migrar-23ai` |
 | [Atividade 7](Atividade7/relatorio-atividade7.md) | Patch 23.26.1 → 23.26.2 | `07-patch-23262` |
 | [Atividade 8](Atividade8/relatorio-atividade8.md) | Configurar Backup RMAN (FULL semanal + incremental via cron) | `08-configurar-backup` |
-| Atividade 9 | Verificação Final + Resumo LinkedIn | `09-verificacao-final` |
+| [Atividade 9](Atividade9/relatorio-atividade9.md) | Verificação Final + Resumo LinkedIn | `09-verificacao-final` |
 
-> O link da Atividade 9 será preenchido quando for concluída.
+> ✅ Imersão concluída — 9 de 9 atividades.
